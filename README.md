@@ -15,4 +15,4 @@ PHP json_decode() 函数用于对 JSON 格式的字符串进行解码，并转�
 开发web网站，使用到第三方API接口的JSON数据，往往单纯通过json_decode方法解析获得的数值一般并非数组，
 而是带有stdClass Objec的对象字符串，这时如果我们想获取相应的PHP数组时，需将对象转化为数组来获取。函数封装如下：
 
-![image](https://github.com/Acegem/API-JSON/blob/master/ArrayAndObject.php)
+![php](https://github.com/Acegem/API-JSON/blob/master/ArrayAndObject.php)
