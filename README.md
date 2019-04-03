@@ -17,7 +17,7 @@ PHP json_decode() 函数用于对 JSON 格式的字符串进行解码，并转�
 
 ![file](https://github.com/Acegem/API-JSON/blob/master/ArrayAndObject.php)
 
-'''php 
+'''
 <?php
 //一维数组转对象：直接(object)$arr;
 //多维数组转对象：循环遍历一层层使(object)$tmp_arr;必定递归实现。
@@ -49,3 +49,4 @@ function objectToArray($obj) {
   return $obj;
 }
 ?>
+'''
