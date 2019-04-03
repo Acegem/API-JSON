@@ -52,4 +52,4 @@ function objectToArray($obj) {
 ?>
 ```
 
-参考：www.runoob.com/php/php-json.html
+参考文献：www.runoob.com/php/php-json.html
